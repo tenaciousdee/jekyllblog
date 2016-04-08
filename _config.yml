@@ -20,6 +20,5 @@ github_username:  tenaciousdee
 # Build settings
 sass:
   sass_dir: _sass
-include: ['pages']
 kramdown:
   input: GFM
