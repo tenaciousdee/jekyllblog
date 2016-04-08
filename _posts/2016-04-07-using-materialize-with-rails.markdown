@@ -2,7 +2,6 @@
 layout: post
 title:  "Using Materialize with Rails"
 date:   2016-04-07 19:32:40 -0500
-categories: rails, materializecss
 ---
 
 For a few years now, I've been a pretty big fan of Bootstrap, using it in most of my Wordpress projects.
