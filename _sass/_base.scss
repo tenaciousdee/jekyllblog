@@ -102,11 +102,11 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $brand-color;
     }
 
     &:hover {
-        color: $brand-color-hover;
+        color: darken($brand-color, 15%);
         text-decoration: underline;
     }
 }
@@ -139,7 +139,7 @@ code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: #fff;
 }
 
 code {
@@ -207,7 +207,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $icon-color;
         }
     }
 }
