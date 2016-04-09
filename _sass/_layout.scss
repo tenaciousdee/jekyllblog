@@ -4,7 +4,7 @@
 .site-header {
     background-color: $header-background;
     min-height: 56px;
-    padding: 6.5em 0 1em;
+    padding: 6em 0 2.3em;
     @include transform(skew(0deg, -10deg));
 
     // Positioning context for the mobile navigation icon
@@ -194,7 +194,7 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 3rem;
 }
 
 
