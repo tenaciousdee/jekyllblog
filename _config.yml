@@ -20,6 +20,5 @@ github_username:  tenaciousdee
 # Build settings
 sass:
   sass_dir: _sass
-include: ['_img']
 kramdown:
   input: GFM
