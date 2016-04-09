@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I'm a full stack developer living in Chicago. My current stack
   includes Ruby, Ruby on Rails and AngularJS as well as some Wordpress
   work.
-baseurl: "/jekyllblog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://tenaciousdee.github.io" # the base hostname & protocol for your site
 twitter_username: dennisesaxton
 github_username:  tenaciousdee
